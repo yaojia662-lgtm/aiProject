@@ -1,5 +1,24 @@
-🇨🇳 简介 (Introduction) 本仓库用于存放和管理信韩大学国际大学软件专业“AI机器人”课程的相关作业。课程内容涵盖了从基础的机器人运动学（Kinematics）到使用 ROS (机器人操作系统) 进行的高阶控制，以及结合人工智能（AI）实现智能化机器人系统的构建。
+# AI 机器人课程作业
 
-姓名： 위야우쟈 20231878
+本仓库整理了 AI Robotics 课程的每周作业和实验笔记。
 
-核心模块： PyBullet 仿真、正向/逆向运动学、ROS 通讯机制、传感器数据处理、基于 AI 的机器人控制。
+## 课程作业目录
+
+- [Week 2：WSL、Ubuntu 与 ROS2 环境配置](week2/)
+- [Week 3：GitHub SSH、VS Code 与 ROS2 交互](week3/)
+- [Week 4：命令行、机器人基础与 Python 仿真](week4/)
+- [Week 5：Linux 目录操作与机器人运动学](week5/)
+- [Week 6：传感器介绍与 ROS2 KITTI 实验](week6/)
+- [Week 7：Markdown 与 GitHub 作业整理](week7/)
+- [Week 8：Docker 安装与 ROS2 桌面容器](week8/)
+- [Week 10：Docker 概念与 OpenCV 实验](week10/)
+
+## 关于我
+
+- 姓名：俞姚加
+- 学号：20231878
+- 专业：计算机科学与技术
+
+## 项目说明
+
+本项目使用 GitHub Pages 自动部署。
