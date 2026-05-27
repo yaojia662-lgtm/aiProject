@@ -1,0 +1,8 @@
+第12周：手机摄像头、ArUco 识别与距离测量
+
+本周使用：
+
+手机摄像头 作为视觉输入
+WSL Ubuntu 作为开发环境
+Tailscale 作为手机与 WSL 之间的网络桥梁
+OpenCV + ArUco 完成识别与测距
